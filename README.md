@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # looker-test-framework-pypi-module
 This repo contains code base for looker-snowflake test framework pip module.
-=======
-# looker-test-pip-package
->>>>>>> 1b7c5415aad8e97b1b82401423cea676dc9666bc
 
 This repo has all the common methods for Looker Testing. Test scripts will be using these methods for writing Looker-Snowflake tests.
 
